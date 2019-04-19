@@ -15,6 +15,7 @@ PRODUCT_PACKAGES += \
 # DerpFest packages
 PRODUCT_PACKAGES += \
     AOSIPFonts \
+    Dirac \
     OmniStyle \
     Eleven
 
