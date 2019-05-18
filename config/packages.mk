@@ -9,8 +9,7 @@ PRODUCT_PACKAGES += \
     messaging \
     TurboPrebuilt \
     WeatherClient \
-    WellbeingPrebuilt \
-    Updater
+    WellbeingPrebuilt
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
